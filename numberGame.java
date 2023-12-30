@@ -5,7 +5,6 @@ public class numberGame {
         int chance=10;
         int finals=0;
         boolean playAgain=true;
-        System.out.println("CODSOFT INTERNSHIP TASK::1");
         System.out.println("::DEAR USER YOU HAVE ONLY  " +chance+ "  CHANCES TO COMPLETE THE GAME::");
         while(playAgain){
             int rand=getrandN(1,100);
